@@ -1696,7 +1696,11 @@
 
 @media (max-width: 575px) {
    .u-section-7 {
-    min-height: 1575px;
+    min-height: 0;
+  }
+
+  .u-section-7 .u-layout-wrap-1 {
+    margin-bottom: 1px;
   }
 
   .u-section-7 .u-layout-cell-1 {
